@@ -1,0 +1,5 @@
+links:
+- YouTube: https://youtu.be/8MyJ95vlDT0
+- canvas: https://canva.link/bl6eyhordptx7bo
+- GitHub: https://github.com/niko36495/lab_mixta_proyecto-arduino-unityy
+
