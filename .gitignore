@@ -1,0 +1,90 @@
+
+# --- Unity: carpetas generadas automáticamente ---
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# --- Unity: caché de Asset Store y paquetes descargados ---
+/[Aa]ssets/AssetStoreTools*
+/[Aa]ssets/Plugins/Editor/JetBrains*
+
+# --- Unity: archivos de depuración y perfilado ---
+*.log
+sysinfo.txt
+crashlytics-build.properties
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# --- Unity: builds y paquetes exportados ---
+*.apk
+*.aab
+*.unitypackage
+*.unitypackage.meta
+*.app
+
+# --- Unity: archivos de proyecto generados por el editor ---
+ExportedObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# --- Unity: capturas y datos de pruebas ---
+/[Aa]ssets/[Ss]creenshots*
+/[Aa]ssets/StreamingAssets/aa.meta
+/[Aa]ssets/StreamingAssets/aa/*
+
+# --- IDEs / Editores ---
+.vs/
+.vscode/
+.idea/
+*.DotSettings.user
+.gradle/
+.utmp/
+
+# --- Arduino ---
+# Archivos compilados generados por Arduino IDE / arduino-cli
+build/
+*.elf
+*.hex
+*.eep
+*.bin
+*.map
+*.lst
+
+# --- Sistema operativo ---
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# --- Videos pesados (usa Git LFS o un enlace externo en el README) ---
+*.mp4
+*.mov
+*.avi
